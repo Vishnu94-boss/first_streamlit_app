@@ -8,6 +8,6 @@ streamlit.text('Kale 🥬, Spinash & Smoothie')
 
 streamlit.text('🥚Hard-bolied eggs')
 
-Streamlit.text('🥑Avacado Toast')
+streamlit.text('🥑Avacado Toast')
 
 import panda
